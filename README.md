@@ -1,6 +1,6 @@
 # Processing Visualizations
 
-One Paragraph of project description goes here
+This repo is for some of my processing sketches, now i started using p5.js though. Long live processing !!!
 
 ## Getting Started
 
@@ -11,41 +11,25 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Processing
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+- Clone the repository
 
 ```
-Give the example
+git clone [repolink]
 ```
+- Download Processing from [here](https://processing.org/).
 
-And repeat
+- Open Processing and open these sketches in processing and simply run them.
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Processing](https://processing.org/) - Animation Library 
 
-## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
