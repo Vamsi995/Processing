@@ -1,6 +1,6 @@
 # Processing Visualizations
 
-This repo is for some of my processing sketches, now i started using p5.js though. Long live processing !!!
+This repo is for creative coding, now i started using p5.js though. Long live processing !!!
 
 ## Getting Started
 
